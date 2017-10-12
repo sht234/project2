@@ -11,6 +11,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 
 public class bar3 {
 	public static void main(String[] args) throws IOException {
+		//dsfgsdfgdsfgdsfgdfgasdsd
 	DefaultCategoryDataset dataset=new DefaultCategoryDataset();
 	dataset.addValue(150, "北京", "苹果");
 	dataset.addValue(100, "北京", "苹果");
