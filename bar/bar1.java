@@ -1,4 +1,4 @@
-package com.offcn.bar;
+package bar;
 
 import java.io.File;
 import java.io.IOException;
@@ -11,6 +11,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 
 public class bar1 {
 	public static void main(String[] args) {
+	//	/**sfdvdsfgsfgsdfs/sgfdgdfgdfgd==
 		DefaultCategoryDataset dataset=new DefaultCategoryDataset();
 		dataset.addValue(100, "北京", "苹果");
 		dataset.addValue(150, "北京", "葡萄");
