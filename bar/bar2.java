@@ -13,6 +13,7 @@ import org.jfree.data.general.DatasetUtilities;
 public class bar2 {
 
 	public static void main(String[] args) {
+		//dfgsfgsdfgdsfgdfsgdsfgdsfgd
 		double[][] data= {{150},{120},{80},{30}};
 		String[] rowKeys= {"香蕉","苹果","橘子","甘蔗"};
 		String[] columsKeys= {"北京"};
